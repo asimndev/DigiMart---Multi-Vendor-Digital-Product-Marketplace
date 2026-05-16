@@ -27,6 +27,88 @@ A full-featured digital marketplace platform where users can browse, purchase, a
 - Newsletter management
 - Site-wide settings (commission rates, payment configs, SMTP, branding)
 
+## Screenshots
+
+### Frontend
+
+#### Homepage
+![Homepage Hero](screenshots/homepage-hero.png)
+
+![Featured Categories](screenshots/featured-categories.png)
+
+![Featured Products](screenshots/featured-products.png)
+
+![Highlighted Products](screenshots/highlighted-products.png)
+
+![Monthly Top Sellers](screenshots/monthly-top-sellers.png)
+
+![Stats & Counters](screenshots/stats-counters.png)
+
+#### Products & Detail
+![Products Page with Filters](screenshots/products-page.png)
+
+![Product Detail Page](screenshots/product-detail.png)
+
+### Admin Panel
+
+<details>
+<summary>Dashboard</summary>
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+</details>
+
+<details>
+<summary>Category Management</summary>
+
+![Categories](screenshots/admin-categories.png)
+
+![Subcategories](screenshots/admin-subcategories.png)
+</details>
+
+<details>
+<summary>Order Management</summary>
+
+![Orders](screenshots/admin-orders.png)
+</details>
+
+<details>
+<summary>Product Review Queue</summary>
+
+![Product Review](screenshots/admin-product-review.png)
+</details>
+
+<details>
+<summary>Withdrawal Management</summary>
+
+![Withdraw Requests](screenshots/admin-withdraw-requests.png)
+
+![Withdraw Methods](screenshots/admin-withdraw-methods.png)
+</details>
+
+<details>
+<summary>Content Management (Sections, Pages, Banners)</summary>
+
+![Hero Section Editor](screenshots/admin-hero-section.png)
+
+![Social Links](screenshots/admin-social-links.png)
+
+![Flash Sale Banner](screenshots/admin-flash-sale.png)
+
+![Page Builder](screenshots/admin-page-builder.png)
+</details>
+
+<details>
+<summary>Access Control & Settings</summary>
+
+![Role Users](screenshots/admin-role-users.png)
+
+![Roles & Permissions](screenshots/admin-roles-permissions.png)
+
+![Payment Settings](screenshots/admin-payment-settings.png)
+
+![General Settings](screenshots/admin-general-settings.png)
+</details>
+
 ## Tech Stack
 
 | Layer | Technology |

@@ -43,8 +43,8 @@ class SettingSeeder extends Seeder
             array('id' => '27', 'key' => 'smtp_sender_email', 'value' => 'suport@digimart.com', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:40:48'),
             array('id' => '28', 'key' => 'smtp_recipient_email', 'value' => 'contact@digimart.com', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:40:48'),
             array('id' => '29', 'key' => 'smtp_mail_host', 'value' => 'sandbox.smtp.mailtrap.io', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
-            array('id' => '30', 'key' => 'smtp_user_name', 'value' => 'c59215b9b026af', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
-            array('id' => '31', 'key' => 'smtp_user_password', 'value' => '9018c2674a638e', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
+            array('id' => '30', 'key' => 'smtp_user_name', 'value' => 'your_smtp_username', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
+            array('id' => '31', 'key' => 'smtp_user_password', 'value' => 'your_smtp_password', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
             array('id' => '32', 'key' => 'smtp_port', 'value' => '2525', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36'),
             array('id' => '33', 'key' => 'smtp_encryption', 'value' => 'ssl', 'created_at' => '2025-02-17 07:36:19', 'updated_at' => '2025-02-17 07:39:36')
 
